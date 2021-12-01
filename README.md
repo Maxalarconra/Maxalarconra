@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogames
 - 🌱 I’m currently learning Japanese
 - 💞️ I’m looking to collaborate on a visual novel, maybe
-- 📫 How to reach me an email, perhaps?
+- 📫 How to reach me: an email, perhaps?
 
 <!---
 Maxalarconra/Maxalarconra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
